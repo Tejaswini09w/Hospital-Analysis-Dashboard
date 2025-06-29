@@ -63,5 +63,24 @@ The dashboard consists of the following pages:
 
 ---
 
-## 📂 Folder Structure
+## ✅ Final Outcome
 
+An interactive hospital dashboard capable of:
+- Tracking and comparing patient admissions and appointments
+- Monitoring doctor availability, performance, and feedback
+- Managing financial KPIs and billing insights
+- Displaying test results, surgery timelines, and bed occupancy
+- Providing an intuitive user experience with slicers and filters
+
+## 🙌 Credits
+
+Created as part of a Power BI learning series. Inspired by real-world hospital operations and optimized for both beginner and intermediate users.
+
+## 📬 Contact
+
+If you have any suggestions or questions, feel free to open an issue or reach out.
+
+
+## 🔖 License
+
+This project is licensed under the MIT License.
